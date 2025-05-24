@@ -504,8 +504,8 @@ const CatalystCrewWebsite = () => {
                 <MapPin className="w-6 h-6 text-blue-600 mt-1" />
                 <div>
                   <h3 className="text-xl font-semibold mb-2 text-gray-900">Visit Us</h3>
-                  <p className="text-gray-600">123 Digital Street</p>
-                  <p className="text-gray-600">Tech City, TC 12345</p>
+                  <p className="text-gray-600">Kanpur nagar</p>
+                  <p className="text-gray-600">Uttar Pradesh, India</p>
                 </div>
               </div>
             </div>
