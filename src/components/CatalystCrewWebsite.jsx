@@ -486,8 +486,8 @@ const CatalystCrewWebsite = () => {
                 <Mail className="w-6 h-6 text-blue-600 mt-1" />
                 <div>
                   <h3 className="text-xl font-semibold mb-2 text-gray-900">Email Us</h3>
-                  <p className="text-gray-600">hello@catalystcrew.com</p>
-                  <p className="text-gray-600">support@catalystcrew.com</p>
+                  <p className="text-gray-600">Catalystcrewcreators@gmail.com</p>
+                  <p className="text-gray-600">arpitbajpai038@gmail.com</p>
                 </div>
               </div>
               
@@ -495,8 +495,8 @@ const CatalystCrewWebsite = () => {
                 <Phone className="w-6 h-6 text-blue-600 mt-1" />
                 <div>
                   <h3 className="text-xl font-semibold mb-2 text-gray-900">Call Us</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
-                  <p className="text-gray-600">+1 (555) 987-6543</p>
+                  <p className="text-gray-600">+91 9235823255</p>
+                  <p className="text-gray-600">+91 9277273411</p>
                 </div>
               </div>
               
